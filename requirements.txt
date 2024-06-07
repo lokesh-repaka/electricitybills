@@ -1,0 +1,12 @@
+pandas
+numpy
+flask
+ipykernel
+python-box
+pyYAML
+ensure
+types-PyYAML
+Flask-Cors
+scikit-learn
+
+-e .
