@@ -8,5 +8,5 @@ ensure
 types-PyYAML
 Flask-Cors
 scikit-learn
-
+matplotlib
 -e .
